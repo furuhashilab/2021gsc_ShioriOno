@@ -22,4 +22,5 @@ GitHubレポジトリ
 [2022年度スタート予定の【地理・歴史】高等学校新学習要領リポジトリ](https://github.com/furuhashilab/courseofstudy4highschool2022japan)
 
 参考文献
+
 [「Markdown記法の使い方」](https://www.asobou.co.jp/blog/bussiness/markdown)
