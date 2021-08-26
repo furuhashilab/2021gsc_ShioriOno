@@ -13,7 +13,7 @@
 
 # 〜高校地理必修化に向けた学習指導要領のオープンレポジトリ化〜
 
-構想発表資料
+構想発表スライド
 
 https://docs.google.com/presentation/d/13tzXjc2IhXA-41w8e8qngnkX1pVcu_8RmMAEoyzQf1Q/edit#slide=id.p
 
