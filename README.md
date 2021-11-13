@@ -12,15 +12,17 @@
 ©︎Furuhashi Laboratory/Shiori Ono, CC BY 4.0
 
 # 【2021年度ゼミ論】タイトル：高校地理必修化に向けた学習指導要領のオープンレポジトリ化
-## Introduction
+## 始めに
 
-## Method
+## 先行研究
+
+## 方法
  
-## Result
+## 結果
 
-## Discussion
+## 議論
 
-## Conclusion
+## まとめ
 
 ## 参考文献
 [「Markdown記法の使い方」](https://www.asobou.co.jp/blog/bussiness/markdown)
@@ -34,3 +36,7 @@ https://docs.google.com/presentation/d/1Kapit6zKgKVutjfvIrUSKxH68EmtHBFG_Y533dzR
 ### GitHubレポジトリ
 
 [2022年度スタート予定の【地理・歴史】高等学校新学習要領リポジトリ](https://github.com/furuhashilab/courseofstudy4highschool2022japan)
+
+### プロジェクト管理
+
+
