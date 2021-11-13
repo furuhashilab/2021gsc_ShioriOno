@@ -12,7 +12,6 @@
 ©︎Furuhashi Laboratory/Shiori Ono, CC BY 4.0
 
 # 【2021年度ゼミ論】タイトル：高校地理必修化に向けた学習指導要領のオープンレポジトリ化
-
 ## Introduction
 
 ## Method
