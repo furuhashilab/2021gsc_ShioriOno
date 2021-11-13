@@ -29,10 +29,16 @@
 ## 参考文献
 [「Markdown記法の使い方」](https://www.asobou.co.jp/blog/bussiness/markdown)
 
-構想発表スライド
+********
+
+### 中間発表スライド
+
+
+
+### 構想発表スライド
 
 https://docs.google.com/presentation/d/13tzXjc2IhXA-41w8e8qngnkX1pVcu_8RmMAEoyzQf1Q/edit#slide=id.p
 
-GitHubレポジトリ
+### GitHubレポジトリ
 
 [2022年度スタート予定の【地理・歴史】高等学校新学習要領リポジトリ](https://github.com/furuhashilab/courseofstudy4highschool2022japan)
