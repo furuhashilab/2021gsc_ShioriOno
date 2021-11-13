@@ -33,7 +33,7 @@
 
 ### 中間発表スライド
 
-
+https://docs.google.com/presentation/d/1Kapit6zKgKVutjfvIrUSKxH68EmtHBFG_Y533dzR4KI/edit#slide=id.g100ed316993_0_0
 
 ### 構想発表スライド
 
