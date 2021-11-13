@@ -28,16 +28,12 @@
 
 ## 参考文献
 [「Markdown記法の使い方」](https://www.asobou.co.jp/blog/bussiness/markdown)
-
+[「行政文書はMarkdownで管理できるか」](https://note.com/hal_sk/n/n916a422caafd?fbclid=IwAR1pbgQ2cJCWdH4n0wKsWJDxr5KMBzo-nZIUq-JKoyGP6e1LRR5j5gQwm3k)
 ********
 
 ### 中間発表スライド
 
 https://docs.google.com/presentation/d/1Kapit6zKgKVutjfvIrUSKxH68EmtHBFG_Y533dzR4KI/edit#slide=id.g100ed316993_0_0
-
-### 構想発表スライド
-
-https://docs.google.com/presentation/d/13tzXjc2IhXA-41w8e8qngnkX1pVcu_8RmMAEoyzQf1Q/edit#slide=id.p
 
 ### GitHubレポジトリ
 
