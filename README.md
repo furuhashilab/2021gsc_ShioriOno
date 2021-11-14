@@ -30,7 +30,7 @@
 
 2. デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、グラレコを作成
 
-![Markdown化する目的 グラレコ pn g](https://user-images.githubusercontent.com/72402681/141694056-0f334edd-a0af-497c-a134-8957aa3acc5f.png)
+<img src="https://user-images.githubusercontent.com/72402681/141694685-2cd388e0-cff0-4c3a-a60e-5c556ac854b7.PNG" width="320">
 
 
 ## 方法
