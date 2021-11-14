@@ -22,7 +22,7 @@
 
 ## 議論
 
-## まとめ
+## 結論
 
 ## 参考文献リスト
 ・[Markdown記法の使い方](https://www.asobou.co.jp/blog/bussiness/markdown)
