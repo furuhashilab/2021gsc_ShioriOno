@@ -28,10 +28,6 @@
 ## 先行研究
 1.Markdown記法の書き方の理解
 
-<img width="1197" alt="スクリーンショット 2021-11-15 2 50 05" src="https://user-images.githubusercontent.com/72402681/141694059-8314cbce-88d2-4e9d-a039-aa75b67ccab1.png">
-
-© mapconcierge, CC BY-SA 4.0
-
 2.デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、グラレコを作成
 
 ![Markdown化する目的 グラレコ pn g](https://user-images.githubusercontent.com/72402681/141694056-0f334edd-a0af-497c-a134-8957aa3acc5f.png)
