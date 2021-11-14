@@ -25,8 +25,8 @@
 ## まとめ
 
 ## 参考文献
-[「Markdown記法の使い方」](https://www.asobou.co.jp/blog/bussiness/markdown)
-[「行政文書はMarkdownで管理できるか」](https://note.com/hal_sk/n/n916a422caafd?fbclid=IwAR1pbgQ2cJCWdH4n0wKsWJDxr5KMBzo-nZIUq-JKoyGP6e1LRR5j5gQwm3k)
+[Markdown記法の使い方](https://www.asobou.co.jp/blog/bussiness/markdown)
+[行政文書はMarkdownで管理できるか](https://note.com/hal_sk/n/n916a422caafd?fbclid=IwAR1pbgQ2cJCWdH4n0wKsWJDxr5KMBzo-nZIUq-JKoyGP6e1LRR5j5gQwm3k)
 ********
 
 ### 中間発表スライド
@@ -39,5 +39,5 @@ https://docs.google.com/presentation/d/1Kapit6zKgKVutjfvIrUSKxH68EmtHBFG_Y533dzR
 
 ### プロジェクト管理
 
-[「2021gsc_ShioriOnoプロジェクト」](https://github.com/furuhashilab/sotsuron2021/projects/25)
+[2021gsc_ShioriOnoプロジェクト](https://github.com/furuhashilab/sotsuron2021/projects/25)
 
