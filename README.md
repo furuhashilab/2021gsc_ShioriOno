@@ -39,5 +39,4 @@ https://docs.google.com/presentation/d/1Kapit6zKgKVutjfvIrUSKxH68EmtHBFG_Y533dzR
 
 ### プロジェクト管理
 
-https://github.com/furuhashilab/sotsuron2021/projects/25
-
+[2021gsc_ShioriOnoプロジェクト]（https://github.com/furuhashilab/sotsuron2021/projects/25）
