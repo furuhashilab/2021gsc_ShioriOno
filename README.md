@@ -36,6 +36,7 @@
 1. Markdown記法の書き方
 <img src="https://user-images.githubusercontent.com/72402681/141700298-f4cbbdde-5a17-4812-bf3f-1b6a1360581c.png" width="380">
 
+<img src="https://user-images.githubusercontent.com/72402681/141785095-9ad24f00-4826-4c9b-b68c-f4027bc19f20.png" width="380">
 
 2. デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、グラレコを作成
 
