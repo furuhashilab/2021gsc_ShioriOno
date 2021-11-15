@@ -46,6 +46,10 @@
 
 <img src="https://user-images.githubusercontent.com/72402681/141789378-95c47634-0775-49f6-b554-1eb6f9e84ebd.png" width="380">
 
+2. デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、作成したグラレコ↓
+
+<img src="https://user-images.githubusercontent.com/72402681/141694685-2cd388e0-cff0-4c3a-a60e-5c556ac854b7.PNG" width="320">
+
 
 ## 方法
 1. 行政文書をMarkdown記法で管理する意義は、先行研究で取り上げた関さんのNoteと関連する Twitterでの議論を読んで、整理する。
@@ -53,10 +57,6 @@
 3. 修正とマージ作業を行い、管理可能とするために克服すべき課題を分析する。
 
 ## 結果
-### デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、作成したグラレコ↓
-
-<img src="https://user-images.githubusercontent.com/72402681/141694685-2cd388e0-cff0-4c3a-a60e-5c556ac854b7.PNG" width="320">
-
 
 ## 議論
 
