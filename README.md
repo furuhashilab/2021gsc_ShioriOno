@@ -54,8 +54,8 @@
 ## 結論
 
 ## 参考文献リスト
-・[Markdown記法の使い方](https://www.asobou.co.jp/blog/bussiness/markdown)
-・[行政文書はMarkdownで管理できるか](https://note.com/hal_sk/n/n916a422caafd?fbclid=IwAR1pbgQ2cJCWdH4n0wKsWJDxr5KMBzo-nZIUq-JKoyGP6e1LRR5j5gQwm3k)
+https://docs.google.com/spreadsheets/d/1-Szgzto-OSchk3K4-7QGuvwWY_zkJWc150O0qoTAhrg/edit#gid=0
+
 ********
 
 ### 中間発表スライド
