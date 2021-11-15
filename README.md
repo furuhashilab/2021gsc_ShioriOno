@@ -38,6 +38,14 @@
 
 <img src="https://user-images.githubusercontent.com/72402681/141785095-9ad24f00-4826-4c9b-b68c-f4027bc19f20.png" width="380">
 
+<img src="https://user-images.githubusercontent.com/72402681/141789342-d542ab56-6a75-466d-931a-a4e4037f6dd8.png" width="380">
+
+<img src="https://user-images.githubusercontent.com/72402681/141789357-3695ddee-b4df-47ac-93f7-50f512600737.png" width="380">
+
+<img src="https://user-images.githubusercontent.com/72402681/141789368-c197bbb5-f046-4a88-bf4d-b90adefe032e.png" width="380">
+
+<img src="https://user-images.githubusercontent.com/72402681/141789378-95c47634-0775-49f6-b554-1eb6f9e84ebd.png" width="380">
+
 2. デジタル庁PM（プロジェクトマネージャー）の関治之さんのNoteを読み、グラレコを作成
 
 <img src="https://user-images.githubusercontent.com/72402681/141694685-2cd388e0-cff0-4c3a-a60e-5c556ac854b7.PNG" width="320">
