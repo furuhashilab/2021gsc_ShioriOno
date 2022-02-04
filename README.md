@@ -65,11 +65,11 @@ Wordを使って文章作ってる人をターゲットにしたMarkdownエデ�
 
 ### 2. 青山学院大学の講義「社会と情報」で行った150名のMarkdown化の成果をチェックし、見つけた修正箇所。
 １つ目。スクリーンショットができていない
-
-
+<img width="498" alt="スクリーンショット 2022-02-05 0 38 52 1" src="https://user-images.githubusercontent.com/72402681/152572128-e2ef5a95-d5cc-428a-9b3c-aa0c19b75494.png">
 
 ２つ目。＃などの文字がそのままになっている。つまり、スペースを開けられていない。
-<img src="755" alt="スクリーンショット 2022-02-05 0 36 03" src="https://user-images.githubusercontent.com/72402681/152566604-cc4cab8d-5f1c-49b6-b8dd-b68cba558749.png" width="320">
+
+<img width="755" alt="スクリーンショット 2022-02-05 0 36 03" src="https://user-images.githubusercontent.com/72402681/152572108-a1461eaa-a15e-4742-b6e5-c9802886b134.png">
 
 ### 3. 修正とマージ作業を行い、分析した管理可能とするために克服すべき課題。
 <img width="1440" alt="スクリーンショット 2022-02-05 0 26 54" src="https://user-images.githubusercontent.com/72402681/152570800-6a7713e9-8eac-44c2-a351-ea3b4496a830.png">
@@ -78,8 +78,10 @@ Wordを使って文章作ってる人をターゲットにしたMarkdownエデ�
 ・Markdown以前にパソコンのスキルがバラバラであることが分かった。
 
 ### 4. 「社会と情報」を受講している学生に実施したアンケートの調査結果。
-<img src="668" alt="スクリーンショット 2022-02-05 1 00 47" src="https://user-images.githubusercontent.com/72402681/152568570-31f4c319-2969-49d3-9c9d-33dc78820c92.png" width="320">
-<img src="667" alt="スクリーンショット 2022-02-05 0 59 33" src="https://user-images.githubusercontent.com/72402681/152568586-44339a9b-0524-4628-b2c4-f4da3fc3d5bc.png" width="320">
+
+<img width="668" alt="スクリーンショット 2022-02-05 1 00 47" src="https://user-images.githubusercontent.com/72402681/152572198-1b9fd6e7-b163-4672-9e03-6d5590a5269d.png">
+<img width="667" alt="スクリーンショット 2022-02-05 0 59 33" src="https://user-images.githubusercontent.com/72402681/152572233-47700d79-270a-4609-b5f3-c212fe71beec.png">
+
 
 ## 議論
 「社会と情報」でMarkdown化が上手くいかなかった学生にヒアリングを実施した。すると、学生からは、Markdownって何？からのスタートだったため追い付くのに必死だったという声や、文系の私には無理かもという感情を抱いていたことが分かった。
